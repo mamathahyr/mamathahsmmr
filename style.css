@@ -1,0 +1,45 @@
+    .content
+    {
+   background-color:red;
+    
+}
+a
+{
+	color:red;
+}
+ .navbar-form .form-control {
+    display: inline-block;
+    width: 1010px;
+    height: 43px;;
+    vertical-align: middle;
+}
+.contt{   
+	  border: 20px black;     
+	  padding: 30px;     
+	  background: crimson;     
+		background-clip: padding-box;
+		 }
+		 h1{
+		 	text-align: center;
+		 }
+.logo{
+     border: 10px  black;
+	     padding: 15px;     
+		background: lightblue;   
+	  background-clip: padding-box; 
+	} 
+.container-flux{
+	background-color: yellow;
+}
+.all_adds{
+	background-color: yellow;
+}
+.conttent{
+{     border: 10px double black; 
+    padding: 25px;    
+         background-repeat: no-repeat;   
+           background-origin: content-box; 
+       } 
+ 
+ 
+		     } 
